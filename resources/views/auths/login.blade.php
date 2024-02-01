@@ -78,7 +78,7 @@
     </script>
 </head>
 
-<body class="hold-transition login-page" style="background: url('/image/login.jpeg') no-repeat center center fixed; background-size:cover">
+<body class="hold-transition login-page" style="background: url('/image/login.jpeg') no-repeat center center fixed; background-size:cover top-50">
     <div class="login-box">
 
         <div class="card card-outline card-success">
